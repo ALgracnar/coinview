@@ -1,0 +1,5 @@
+python-binance
+TA-Lib
+numpy~=1.21.3
+backtrader~=1.9.76.123
+flask~=2.0.2
